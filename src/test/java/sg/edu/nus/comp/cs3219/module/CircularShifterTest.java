@@ -36,4 +36,14 @@ public class CircularShifterTest {
 		assertEquals("Tomorrow the Day after", afterShiftLineStorage.get(1).toString());
 	}
 
+	@Test
+	public void test1() {
+		//Tutorial 3: Supposedly to test where lines input does not contain any of the ignored words
+	}
+
+	@Test
+	public void test2() {
+		//Tutorial 3: Supposedly to test where lines input contains ALL the ignored words
+	}
+
 }
